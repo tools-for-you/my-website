@@ -1,0 +1,120 @@
+.snowflake {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    background-color: #9f47ed;
+    border-radius: 50%;
+     animation: fall 20s infinite;
+    }
+    
+    @keyframes fall {
+    0% {
+    transform: translateX(0);
+    }
+    100% {
+    transform: translateX(100vw);
+    }
+    }
+    
+    .snowflake:nth-child(1) {
+    animation-delay: 0s;
+    top: 10%;
+    }
+    
+    .snowflake:nth-child(2) {
+    animation-delay: 1s;
+    top: 20%;
+    }
+    
+    .snowflake:nth-child(3) {
+    animation-delay: 2s;
+    top: 30%;
+    }
+    
+    .snowflake:nth-child(4) {
+    animation-delay: 3s;
+    top: 40%;
+    }
+    
+    .snowflake:nth-child(5) {
+    animation-delay: 4s;
+    top: 50%;
+    }
+    
+    .snowflake:nth-child(6) {
+    animation-delay: 5s;
+    top: 60%;
+    }
+    
+    .snowflake:nth-child(7) {
+    animation-delay: 6s;
+    top: 70%;
+    }
+    
+    .snowflake:nth-child(8) {
+    animation-delay: 7s;
+    top: 80%;
+    }
+    
+    .snowflake:nth-child(9) {
+    animation-delay: 8s;
+    top: 90%;
+    }
+    
+    .snowflake:nth-child(10) {
+    animation-delay: 9s;
+    top: 10%;
+    }
+    
+    .snowflake:nth-child(11) {
+    animation-delay: 10s;
+    top: 20%;
+    }
+    
+    .snowflake:nth-child(12) {
+    animation-delay: 11s;
+    top: 30%;
+    }
+    
+    .snowflake:nth-child(13) {
+    animation-delay: 12s;
+    top: 40%;
+    }
+    
+    .snowflake:nth-child(14) {
+    animation-delay: 13s;
+    top: 50%;
+    }
+    
+    .snowflake:nth-child(15) {
+    animation-delay: 14s;
+    top: 60%;
+    }
+    
+    .snowflake:nth-child(16) {
+    animation-delay: 15s;
+    top: 70%;
+    }
+    
+    .snowflake:nth-child(17) {
+    animation-delay: 16s;
+    top: 80%;
+    }
+    
+    .snowflake:nth-child(18) {
+    animation-delay: 17s;
+    top: 90%;
+    }
+    
+    .snowflake:nth-child(19) {
+    animation-delay: 18s;
+    top: 10%;
+    }
+    
+    .snowflake:nth-child(20) {
+    animation-delay: 19s;
+    top: 20%;
+    }
+    
